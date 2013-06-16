@@ -10,6 +10,8 @@ dist
 build
 eggs
 parts
+local
+include
 bin
 var
 sdist
